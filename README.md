@@ -158,6 +158,11 @@ We include three examples so users can see the tool under both ideal and realist
 
 Questions? Contact **[Student Name]** at [email@charlotte.edu](mailto:email@charlotte.edu), or open an [Issue](../../issues) on this repository.
 
+lmaddula@uncc.edu
+rrober45@charlotte.edu
+rrahman4@charlotte.edu
+mabunura@charlotte.edu
+
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
